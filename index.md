@@ -1,2 +1,2 @@
-<script type="text/javascript">location="https://hikitay.gq";</script>
-<meta http-equiv="refresh" content="5;https://hikitay.gq">
+<script type="text/javascript">location="https://hikitay.ru";</script>
+<meta http-equiv="refresh" content="0;https://hikitay.ru">
